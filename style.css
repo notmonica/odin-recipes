@@ -6,8 +6,27 @@ h1 {
     font-size: 50px;
 }
 
+h3 {
+    background-color: rgb(30, 136, 30);
+    color: white;
+}
+
+h4 {
+    color: rgb(30, 136, 30);
+}
+
 .masterlist {
     font-size: 20px;
+    background-color: crimson;
+    color: yellow
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: yellow;
 }
 
 ul {
