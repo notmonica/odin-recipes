@@ -17,18 +17,21 @@ h4 {
 
 .masterlist {
     font-size: 20px;
-    background-color: crimson;
-    color: yellow
+    color: firebrick;
 }
 
 a:link {
-    color: yellow;
+    color: firebrick;
 }
 
 a:visited {
-    color: yellow;
+    color: firebrick;
 }
 
 ul {
     list-style-type: square;
+}
+
+.hover:hover {
+    background-color: yellow;
 }
